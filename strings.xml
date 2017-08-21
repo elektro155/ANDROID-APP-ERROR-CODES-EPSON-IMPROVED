@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">EPSON ERROR CODES</string>
+    <string-array name="spinner">
+        <item>Epson 9800/7800</item>
+        <item>Epson 9880/7880</item>
+        <item>Epson 9450/7450</item>
+        <item>Epson 9600/7600</item>
+        <item>Epson 4800/4880</item>
+        <item>Epson 4450/4400</item>
+        <item>Epson 4000</item>
+    </string-array>
+</resources>
